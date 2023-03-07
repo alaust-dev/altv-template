@@ -1,0 +1,9 @@
+.idea
+/data
+/modules/
+libnode.so.108
+/altv-server
+/resources
+server.log
+/cache
+/node_modules
